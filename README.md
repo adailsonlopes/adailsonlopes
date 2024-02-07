@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020024,35:090979,100:00d4ff&text=Hi 👋, I'm Adailson Lopes&fontSize=56&reversal=true&section=header&textBg=false&fontColor=FFF">
-<p align="center">Estou cursando Ciência da Computação. Atualmente estou estudando front end para me tornar desenvolvedor de sucesso e contribuir para projetos que façam a diferença no mundo.</p>
-<p align="center">Tenho paixão por tecnologia e programação, e estou buscando me aperfeiçoar constantemente nas linguagens focadas em desenvolvimento front end. Meu objetivo é trabalhar em projetos que impactem positivamente a sociedade.</p>
+<h1 align="left">Hi 👋, I'm Adailson Lopes</h1>
+<p align="left">Estou cursando Ciência da Computação. Atualmente estou estudando front end para me tornar desenvolvedor de sucesso </br>e contribuir para projetos que façam a diferença no mundo.<br>
+Tenho paixão por tecnologia e programação, e estou buscando me aperfeiçoar constantemente nas linguagens focadas </br>em desenvolvimento front end. Meu objetivo é trabalhar em projetos que impactem positivamente a sociedade.</p>
 
 - 🔭 Atualmente no trabalho no comércio.
 - 🌱 Atualmente estou aprendendo desenvolvimento front end.
