@@ -5,8 +5,7 @@ Tenho paixão por tecnologia e programação, e estou buscando me aperfeiçoar c
 - 🔭 Atualmente no trabalho no comércio.
 - 🌱 Atualmente estou aprendendo desenvolvimento front end.
 - 🤔 Estou procurando ajuda para transição de carreira.
-- 📚 Estou lendo o livro, "Os segredos das apresentações poderosas - Roberto Shinyashiki
-  "
+
 
 <h3 align="left">🖥️ Tecnologias e Ferramentas:</h3>
 <p align="left"> 
